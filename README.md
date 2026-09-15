@@ -19,11 +19,6 @@ Screenshots use RuneLite's normal location and naming:
 Collection log (Twisted bow) 2026-09-14_10-34-00.png
 ```
 
-## Docs
-
-- [Dev-mode Jagex login](docs/dev-mode-login.md)
-- [Dev testing](docs/dev-testing.md)
-
 
 
 
